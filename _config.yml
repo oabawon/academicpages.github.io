@@ -24,13 +24,13 @@ repository               : "oabawon/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "kay.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Olakunle S. Abawonse"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Kigali, Rwanda"
+  employer         : "Institute of Mathematical Sciences, Rwanda"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "oabawon1@binghamton.edu" 
 
   # Academic websites
   academia         : # URL
@@ -40,7 +40,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
