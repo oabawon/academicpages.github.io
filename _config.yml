@@ -26,7 +26,7 @@ author:
   avatar           : "kay.jpg"
   name             : "Olakunle S. Abawonse"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am generally interested in geometry, combinatorics, computer vision and topological data analysis"
   location         : "Kigali, Rwanda"
   employer         : "Institute of Mathematical Sciences, Rwanda"
   uri              : # URL
@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=f8CNrIIAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0004-6517-0606"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
