@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Mathematical Sciences, State University of New York at Binghamton, 2022
+  * Supervisor: Laura M. Anderson
 * B.S. in Mathematics, University of Ibadan, Ibadan, Nigeria, 2012
 
 Work experience
