@@ -17,29 +17,29 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* November 2023 - November 2025: DAAD Postdoctoral researcher in discrete mathematics
+  * African Institute of Mathematical Sciences, (AIMS) Rwanda
+  * Kigali, Rwanda
+  
+* August 2022 - July 2023: Zelevinsky Postdoctoral Researcher
+  * Deparment of Mathematics, Northeastern University
+  * Boston, USA.
+  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2015 - May 2022: Graduate Teaching Assistant
+  * State University of New York at Binghamton
+  * New York, USA.
+ 
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python Programming
+* Deep Neural Network
+  * Graph and Node Classifcation
+* Convex Optimaztion Algorithms
+  * CVXOPT 
+* Topological Data Analysis
 
 Publications
 ======
